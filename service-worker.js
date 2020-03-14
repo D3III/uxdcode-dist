@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5c2d13af315e42cabce6315c0345a4b8.js"
+  "/precache-manifest.e2977019edb3d5268f6f9259c17a42ad.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "uxdcode"});
